@@ -8,3 +8,4 @@ Instrukcja:
 ### git add [. | "File.txt"]                         //dodaj do kolejki
 ### git commit -m "komentarz"                       //dodaj komentarz
 ### git push                                       //aktualizuj Githuba
+### git pull                                      // Pobierz nową wersję (z brancha)
